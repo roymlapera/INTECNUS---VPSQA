@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <connectionStrings>
+        <clear />
+        <add name="IBA_CSP_REPOSITORY" connectionString="W9UUcBVw/g1ZGxDyPqj4weDRhIimSKRMW7P6I+SCX+LS7taLkWUVJmDcnIsZRG7klyTHHjZq1glTBdo8UaTtd4MSd8R29XxH+nkTfG4BoUOSwJiTgyNWmCpp4D+F3z8mMN0MeWYUpWReaT8B5fDDXQDDk6hrQt5WUzFg+hDrguNfNbooqISuqCFSut29UGO1hs7j5UDoC8C2ISpDNSnHoh/yUKV8XrItLOZLoUrep1s="
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
